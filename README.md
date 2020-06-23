@@ -20,3 +20,9 @@ LulzSec-Toolkit enables the user to have a menu with the most important tools. B
 3. chmod +x LulzSec.sh
 4. sudo ./LulzSec.sh
 
+## Disclaimer
+Usage of LulzSec-Toolkit for attacking and
+scanning targets without prior mutual consent
+is illegal. It is the end users responsibility to obey
+all applicable local, state and federal laws. Developers assume no
+liability and are not responsible for any misuse or damage caused by this program.
