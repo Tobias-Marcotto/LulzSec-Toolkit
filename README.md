@@ -7,15 +7,15 @@ LulzSec-Toolkit enables the user to have a menu with the most important tools. B
 
 ## Supported platforms
  
- ---> Linux 
- ---> Mac 
- ---> Windows
- ---> Android
+#### ---> Linux 
+#### ---> Mac 
+#### ---> Windows
+#### ---> Android
  
  ![LulzSec](https://user-images.githubusercontent.com/62266784/85389665-0686ed00-b548-11ea-8b45-d16b0f0e71f0.jpg)
 
 ## Installation
 
-### • cd Downloads
-### • chmod +x LulzSec.sh
-### • sudo ./LulzSec.sh
+#### • cd Downloads
+#### • chmod +x LulzSec.sh
+#### • sudo ./LulzSec.sh
