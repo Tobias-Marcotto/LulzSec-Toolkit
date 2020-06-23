@@ -15,7 +15,8 @@ LulzSec-Toolkit enables the user to have a menu with the most important tools. B
  ![LulzSec](https://user-images.githubusercontent.com/62266784/85389665-0686ed00-b548-11ea-8b45-d16b0f0e71f0.jpg)
 
 ## Installation
+1. git clone https://github.com/SecExploiter/LulzSec-Toolkit.git
+2. cd LulzSec-Toolkit
+3. chmod +x LulzSec.sh
+4. sudo ./LulzSec.sh
 
-#### • cd Downloads
-#### • chmod +x LulzSec.sh
-#### • sudo ./LulzSec.sh
