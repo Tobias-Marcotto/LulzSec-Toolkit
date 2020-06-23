@@ -32,3 +32,7 @@ LulzSec-Toolkit enables the user to have a menu with the most important tools. B
  is illegal. It is the end users responsibility to obey
  all applicable local, state and federal laws. Developers assume no
  liability and are not responsible for any misuse or damage caused by this program.
+
+## SUPPORT US
+### Our Account https://github.com/SecExploiter
+#### If you liked this tool then recommend it to other people
