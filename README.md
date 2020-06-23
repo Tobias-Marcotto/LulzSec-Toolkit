@@ -5,4 +5,10 @@ LulzSec-Toolkit enables the user to have a menu with the most important tools. B
 
 ![LulzSec1](https://user-images.githubusercontent.com/62266784/85389654-02f36600-b548-11ea-99de-711020f337f2.jpg)
 
-## Install
+## Supported platforms
+ ---> Linux 
+ ---> Mac 
+ ---> Windows
+ ---> Android
+ 
+ 
